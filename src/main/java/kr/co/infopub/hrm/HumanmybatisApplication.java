@@ -10,3 +10,4 @@ public class HumanmybatisApplication {
 		SpringApplication.run(HumanmybatisApplication.class, args);
 	}
 }
+//http://localhost:8199/humans/swagger-ui.html
